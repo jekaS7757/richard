@@ -876,15 +876,17 @@ body {
         /* phones */
 
 .phones{
-    position: relative;
+    position: relative; 
+    background-image: url(img/phones.png);
     background-size: cover;
     height: 570px;
 }
 
-.phones-img{
+/* .phones-img{
     height: 570px;
     background-size: cover;
-}
+    background-image: url();
+} */
 
 
     /* gradient */
